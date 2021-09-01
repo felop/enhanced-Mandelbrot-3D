@@ -1,3 +1,3 @@
-### enhanced-Mandelbrot-3D
+### enhanced-fractals
 
 ![img](capture.png)
