@@ -1,6 +1,6 @@
 ### enhanced-Mandelbrot-3D
 
-<img align="left" width="50%" height="100%" src="https://i.ibb.co/z8HmrvV/capture.png"/>
+![img](https://i.ibb.co/z8HmrvV/capture.png"/)
 
 
 
