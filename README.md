@@ -1,3 +1,3 @@
 ### enhanced-Mandelbrot-3D
 
-![img](capture.png")
+![img](capture.png)
