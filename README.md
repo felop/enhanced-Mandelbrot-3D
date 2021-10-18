@@ -1,5 +1,4 @@
 # enhanced-fractals
-**[shadertoy project <--](https://www.shadertoy.com/view/fdB3zt)**
 
 <img src="capture.png" align="right" width=65%>
 
