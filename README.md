@@ -1,4 +1,5 @@
 # enhanced-fractals
+<br/>
 
 <img src="capture.png" align="right" width=65%>
 
